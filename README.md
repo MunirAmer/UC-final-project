@@ -21,14 +21,14 @@
 
 > Fill out project information in English ⬇️
 ### Student Name
-
+Mounir Mohamad Amer
 
 ### Project Name
-
+Django Blog
 # Idea
-Problem and solutions if found 
+No Problems. 
 
 
 # Future Work 
-
+Diving deeper into django and adding new features to my website.
 
